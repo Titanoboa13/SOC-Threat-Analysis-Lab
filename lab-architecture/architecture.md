@@ -9,9 +9,7 @@ One Windows 11 endpoint acting as a monitored host
 
 One Linux-based SIEM platform for log collection and analysis
 
-This setup reflects a realistic junior SOC analyst context, where limited visibility requires careful interpretation of available telemetry.
 ----
-
 ## Data Sources and Telemetry
 
 The following telemetry sources are available for investigation:
@@ -43,6 +41,7 @@ Wazuh Agent Events
 Normalized alerts generated from Windows logs
 
 MITRE ATT&CK–mapped detections
+
 ----
 ## Assumptions and Limitations
 
